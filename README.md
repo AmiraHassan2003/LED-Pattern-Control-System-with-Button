@@ -4,7 +4,8 @@
  - Button 1: Turns LEDs on from left to right.
  - Button 2: Turns LEDs off from left to right.
 
-### Challenges & Solutions: Implemented effective button debouncing and pattern control logic to ensure smooth and reliable LED transitions.
+### Challenges & Solutions: 
+ - Implemented effective button debouncing and pattern control logic to ensure smooth and reliable LED transitions.
 
 
 
